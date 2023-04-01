@@ -1,5 +1,5 @@
 # CryptRaider
- a dungeon game made with Unreal Engine 5
+ a small dungeon game made with Unreal Engine 5
  
  
 ![gold stat](https://user-images.githubusercontent.com/74920170/229308942-98679b53-cd2a-40f4-9277-f66d6215f5bf.png)
